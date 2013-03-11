@@ -1,1 +1,3 @@
+All code by Ken Schiller.
+
 Written during the Carleton Computing Society's Spring 2012 Hackathon. My partner and I worked on alternative authentification methods—he worked on a password system that used features of the way a person typed on the keyboard, and I worked on a drawing-based password system. This program is one part of my work—it lets a user draw by clicking and dragging the mouse in the window, and then tries to find a relatively small set of points that best represent the movements that make up the drawing. These points, along with time information, represent a user's password, and are later matched against a drawing path that represents a login attempt.
